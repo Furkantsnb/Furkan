@@ -1,4 +1,6 @@
 # Furkan
+// SORULARIN YOUTUBE VİDEO ÇÖZÜMLERİ https://youtu.be/WrwNZDGpW0A
+
 // 1.SORU KULLANICI TARAFINDAN GİRİLEN BİR POZİTİF TAM SAYININ FAKTORİYELİNİ HESAPLAMA
 
 package faktoriyelhesaplama;
