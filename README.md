@@ -294,8 +294,8 @@ import java.util.Scanner;
 public class Furkan {
 
     
-    public static void main(String[] args) {
-       Scanner s = new Scanner(System.in);
+ public static void main(String[] args) {
+ Scanner s = new Scanner(System.in);
 int kul_puan =0;
 int bil_puan=0;
 System.out.println("************|< Tas Kagıt Makas Oyununa Hosgeldiniz >|***********");
